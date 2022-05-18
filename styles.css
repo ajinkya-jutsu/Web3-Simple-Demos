@@ -1,0 +1,16 @@
+body{
+    background-color: gainsboro;
+    align-content: center;
+}
+
+.container{
+    align-content: center;
+    text-align: center;
+}
+
+button{
+    block-size: 5vw;
+    align-content: center;
+    text-align: center;
+}
+
